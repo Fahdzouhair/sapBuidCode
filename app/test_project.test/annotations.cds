@@ -1,0 +1,1 @@
+using test_projectSrv as service from '../../srv/service';
